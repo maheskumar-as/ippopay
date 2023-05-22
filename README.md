@@ -2,6 +2,10 @@
 
 This project allows users to enter a list of numbers separated by commas. The program then creates two arrays from the input, ensuring that the values in the arrays have the minimum difference.
 
+## Screenshot
+
+<img src="https://user-images.githubusercontent.com/46255453/239919795-cd4dd8d1-2e8d-4e45-ad53-db05a20f3958.png" width="90%"></img>
+
 ## Prerequisites
 
 - Node.js
