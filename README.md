@@ -4,7 +4,7 @@ This project allows users to enter a list of numbers separated by commas. The pr
 
 ## Screenshot
 
-<img src="https://user-images.githubusercontent.com/46255453/239919795-cd4dd8d1-2e8d-4e45-ad53-db05a20f3958.png" width="90%"></img>
+![APP](https://user-images.githubusercontent.com/46255453/239919795-cd4dd8d1-2e8d-4e45-ad53-db05a20f3958.png)
 
 ## Prerequisites
 
@@ -25,10 +25,10 @@ Follow the steps below to set up and run the project.
 1. Navigate to the root directory:
 
 2. Install the required packages:
-   npm i
+   `npm i`
 
 3. Start node server:
-   node server.js
+   `node server.js`
 
 4. Start React App:
-   npm start
+   `npm start`
