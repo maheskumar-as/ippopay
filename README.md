@@ -32,3 +32,6 @@ Follow the steps below to set up and run the project.
 
 4. Start React App:
    `npm start`
+
+Server : http://localhost:3006/
+React APP : http://localhost:3000/
